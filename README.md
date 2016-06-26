@@ -1,12 +1,12 @@
-## loadec
-**loadec** (sounds like 'low deck') is a file transfer system built on the ZeroTier SDN.
+## transdec
+**transdec** is a file transfer system built on the ZeroTier SDN.
 
 ## Problem
 Trying to transfer a file between two computers sucks.  curl, scp, ftp,
 Airdrop, Dropbox, Google cloud, and best of all, emailing it to yourself.
 
 It's *current year* why can't we just send a file between two networked
-devices!  Well **loadec** attempts this.  We provide a web interface to help you
+devices!  Well **transdec** solves this.  We provide a web interface to help you
 manage connections between your networked devices.  You just select a device
 to transfer a file to and boom you're done.  You just need the ZeroTier app
 installed on your devices in order to join the network you create.  Hopefully
